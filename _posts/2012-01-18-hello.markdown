@@ -1,14 +1,17 @@
 ---
 layout: post
-title: Hello World
-category: category1
+title: 15 Years!
+category: general
 
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis aliquam tellus. Integer a lectus sem. Fusce interdum fermentum dapibus. Curabitur vehicula, metus venenatis blandit molestie, magna lacus venenatis lectus, nec aliquet libero ipsum vitae est.
+excerpt: Since 1998 and still having fun!
 ---
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis aliquam tellus. Integer a lectus sem. Fusce interdum fermentum dapibus. Curabitur vehicula, metus venenatis blandit molestie, magna lacus venenatis lectus, nec aliquet libero ipsum vitae est. Cras tempus dictum mauris, in accumsan nulla aliquam ut. Suspendisse mauris dui, tristique nec commodo vitae, sagittis et ipsum. In nulla nulla, malesuada ut commodo vitae, varius quis quam. Sed vestibulum ante id dolor vestibulum faucibus. Maecenas nec ipsum nec ligula consectetur consectetur sit amet nec eros. Morbi vestibulum, purus vitae tempor faucibus, purus nisi fermentum odio, ac lobortis quam leo sed diam. Nulla facilisi. In fringilla tortor sed tortor feugiat eu convallis eros vehicula. Curabitur mattis condimentum diam, in ultricies arcu dapibus ut. Vivamus posuere quam vel nisi mollis accumsan euismod justo lobortis.
+Wow 15 years...It's been a fun ride since I upped sticks in 1998 to jump in the deep-end as a freelance developer. I've been lucky enough to work on many varied projects and meet some great people along the way. Huge thanks to all the clients and colleguaues especially my wife and partner Veronique.
 
-Quisque suscipit dolor sem. Curabitur ligula est, volutpat eget posuere eget, commodo in urna. Fusce sed nunc nibh. Mauris non lectus eu purus porta suscipit nec eu elit. Nam placerat volutpat tempus. Maecenas orci eros, suscipit lacinia dictum eu, viverra et purus. Fusce nisl arcu, suscipit nec varius vel, consequat at libero.
+We've taken the opportunity to have a break and introduce our finest acheivent, first-born Jonathan to his extended family acround the globe (and get some proper beach time;).  geek, exciting time to develop. back in the new year....2013.
 
-Ut eu velit magna, vitae dictum elit. Donec et quam nibh, vel vehicula ligula. Proin sed sagittis dolor. Praesent in nisl non dui adipiscing tempus. Morbi at libero elementum felis feugiat ultricies et facilisis sapien. Suspendisse aliquam sollicitudin nisl. Ut accumsan, sapien ac pretium aliquam, odio massa gravida arcu, id fringilla urna eros sit amet leo. Vestibulum elit elit, condimentum sed accumsan sed, congue id sem. Cras nunc libero, vestibulum at viverra at, lobortis vitae dui. 
+Part of this resulted in the creation of this nice new simple clean all shiny repulsive responsive markdown and githubbed site. Hopefully it'll encourage me to do a bit more posting. There wasn't much worth saing from the old site so - fresh start for 2013...hope you have a fun one.
 
+
+Good winds
+Geoff
