@@ -11,6 +11,11 @@ color: #333333;
     padding: 9px 0;
   }
 
+  .phologob
+  {
+    font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  }
+
   @media (max-width: 980px) {
     /* Enable use of floated navbar text */
     .navbar-text.pull-right {
