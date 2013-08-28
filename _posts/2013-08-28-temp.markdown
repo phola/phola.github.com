@@ -1,0 +1,7 @@
+---
+layout: post
+title: New site coming soon
+category: general
+
+excerpt: Mechanic's car is always the one broken down, eh? we'll be back soon with update to site...
+---
